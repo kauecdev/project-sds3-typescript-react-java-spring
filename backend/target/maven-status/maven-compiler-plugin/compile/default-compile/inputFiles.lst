@@ -1,4 +1,14 @@
+/home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/services/SaleService.java
+/home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/dto/SaleDTO.java
 /home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/entities/Sale.java
+/home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/repositories/SellerRepository.java
+/home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/repositories/SaleRepository.java
+/home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/dto/SellerDTO.java
+/home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/controllers/SaleController.java
+/home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/controllers/SellerController.java
 /home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/entities/Seller.java
 /home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/ProjetoSds3Application.java
+/home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/dto/SaleSuccessDTO.java
 /home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/config/SecurityConfig.java
+/home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/services/SellerService.java
+/home/kauec/Documentos/Cursos/projeto-sds3/backend/src/main/java/com/project/sds3/Projeto/SDS3/dto/SaleSumDTO.java
