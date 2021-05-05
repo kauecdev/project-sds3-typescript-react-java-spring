@@ -5,6 +5,8 @@ com/project/sds3/Projeto/SDS3/entities/Seller.class
 com/project/sds3/Projeto/SDS3/entities/Sale.class
 com/project/sds3/Projeto/SDS3/dto/SellerDTO.class
 com/project/sds3/Projeto/SDS3/repositories/SellerRepository.class
+com/project/sds3/Projeto/SDS3/dto/SaleSuccessDTO.class
+com/project/sds3/Projeto/SDS3/dto/SaleSumDTO.class
 com/project/sds3/Projeto/SDS3/controllers/SaleController.class
 com/project/sds3/Projeto/SDS3/controllers/SellerController.class
 com/project/sds3/Projeto/SDS3/ProjetoSds3Application.class
