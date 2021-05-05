@@ -1,2 +1,4 @@
-com/project/sds3/Projeto/SDS3/config/SecurityConfig.class
+com/project/sds3/Projeto/SDS3/entities/Seller.class
+com/project/sds3/Projeto/SDS3/entities/Sale.class
 com/project/sds3/Projeto/SDS3/ProjetoSds3Application.class
+com/project/sds3/Projeto/SDS3/config/SecurityConfig.class
