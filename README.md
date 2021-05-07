@@ -59,5 +59,5 @@ Software Developer apaixonado por tecnologia! ❤️
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauê-cavalcante-76683214b//)](https://www.linkedin.com/in/kauê-cavalcante-76683214b//)
 
 <p>
-  Créditos da aplicação para a <a href="https://devsuperior.com.br/"</a>, criadora do evento da qual foi desenvolvido e disponibilizado este projeto.
+  Créditos da aplicação para a <a href="https://devsuperior.com.br/">DevSuperior</a>, criadora do evento da qual foi desenvolvido e disponibilizado este projeto.
 </p>
